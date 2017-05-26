@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "samkoch\\activitylog\\": ""
+      "samkoch\\yii2-activitylog\\": ""
     }
   }
 }
