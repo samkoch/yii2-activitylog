@@ -8,6 +8,6 @@ Yii2 activity logger
 It is recommended to use [composer](https://getcomposer.org) to install the library.
 
 ```bash
-$ composer require samkoch/yii2-user
+$ composer require samkoch/yii2-activitylog
 $ ./yii migrate/up --migrationPath=@vendor/samkoch/yii2-activitylog/migrations
 ```
