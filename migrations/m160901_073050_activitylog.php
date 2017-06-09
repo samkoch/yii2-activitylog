@@ -3,7 +3,7 @@
 namespace samkoch\activitylog\migrations;
 
 use yii\db\Migration;
-use samkoch\activitylog\ActivityLog;
+use samkoch\yii2activitylog\ActivityLog;
 
 class m160901_073050_activitylog extends Migration
 {
