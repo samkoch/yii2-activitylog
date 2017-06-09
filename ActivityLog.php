@@ -1,6 +1,6 @@
 <?php
 
-namespace samkoch\activitylog;
+namespace samkoch\yii2activitylog;
 
 use Yii;
 use yii\base\Exception;
