@@ -1,6 +1,6 @@
 <?php
 
-namespace samkoch\activitylog\migrations;
+namespace samkoch\yii2activitylog\migrations;
 
 use yii\db\Migration;
 use samkoch\yii2activitylog\ActivityLog;
