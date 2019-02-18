@@ -23,7 +23,7 @@ class m160901_073050_activitylog extends Migration
           'user_id' => $this->integer()->null(),
           'message' => $this->string()->null(),
           'model' => $this->string()->null(),
-          'params' => $this->text()->null(),
+          'params' => 'LONGTEXT NULL',
           'record_id' => $this->integer()->null(),
         ], $tableOptions);
     }
