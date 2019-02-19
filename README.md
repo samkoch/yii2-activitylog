@@ -9,5 +9,5 @@ It is recommended to use [composer](https://getcomposer.org) to install the libr
 
 ```bash
 $ composer require samkoch/yii2-activitylog
-$ ./yii migrate/up --migrationPath=@vendor/samkoch/yii2-activitylog/migrations
+$ ./yii migrate/up --migrationNamespaces='samkoch\yii2activitylog\migrations' --interactive=0;
 ```
