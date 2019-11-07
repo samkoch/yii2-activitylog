@@ -5,7 +5,7 @@ namespace samkoch\yii2activitylog\migrations;
 use yii\db\Migration;
 use samkoch\yii2activitylog\ActivityLog;
 
-class m160901_073050_activitylog extends Migration
+class m160126_115704_create_activity_log extends Migration
 {
     public function up()
     {
